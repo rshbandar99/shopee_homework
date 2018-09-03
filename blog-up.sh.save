@@ -1,0 +1,11 @@
+#!/bin/bash
+
+bash ./installdb.sh
+
+sleep 5
+
+bash ./installword.sh
+
+sleep 5
+
+
